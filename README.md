@@ -1,5 +1,4 @@
 📑 Nội dung chính
-
 Tổng quan về ERP Odoo
 
 Khái niệm ERP
@@ -22,7 +21,7 @@ Nhà cung cấp và triển khai Odoo tại Việt Nam
 
 Port Cities Việt Nam
 
-Các bước triển khai Odoo (kế hoạch → yêu cầu → xây dựng → kiểm tra → triển khai → hypercare)
+Các bước triển khai Odoo: kế hoạch → yêu cầu → xây dựng → kiểm tra → triển khai → hypercare
 
 Case Study
 
@@ -37,5 +36,3 @@ Funtap
 Sieu Viet Group
 
 24H Visa
-
-Tài liệu tham khảo
